@@ -6,7 +6,7 @@ This project is part of the **CodSoft Data Science Internship (Task 1)**. It inv
 
 ## 📌 Problem Statement
 
-Using the Titanic dataset, build a classification model that predicts whether a given passenger survived or not.
+The objective is to build a classification model using the Titanic dataset to predict whether a passenger survived the sinking of the Titanic based on various features such as age, sex, ticket class, fare, number of siblings/spouses aboard, and port of embarkation. By analyzing these variables, the model can help understand which factors contributed to survival likelihood.
 
 ---
 
