@@ -65,7 +65,6 @@ This notebook includes an interactive section where users can:
 
 ```
 Credit Card Fraud Detection/
-├── dataset.csv
 ├── Credit_Card_Fraud_Detection .ipynb
 └── README.md
 ```
