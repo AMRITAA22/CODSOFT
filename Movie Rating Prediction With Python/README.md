@@ -75,3 +75,13 @@ An interactive Streamlit application allows users to:
 ```bash
 git clone https://github.com/yourusername/movie-rating-prediction.git
 cd movie-rating-prediction
+```
+---
+
+## 🙋‍♀️ Author
+
+- **Name**: Amrita  
+- **Internship**: CodSoft Data Science Track  
+- **Task**: Titanic Survival Prediction
+
+---
