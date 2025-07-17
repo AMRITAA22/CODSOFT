@@ -66,7 +66,11 @@ The Linear Regression model was able to predict sales with a decent accuracy bas
 
 ---
 
-## 🎮 How to Run
 
-1. Clone the repository or download the Jupyter Notebook.
-2. Install required libraries:
+## 🙋‍♀️ Author
+
+- **Name**: Amrita  
+- **Internship**: CodSoft Data Science Track  
+- **Task**: Titanic Survival Prediction
+
+---
