@@ -50,11 +50,6 @@ The objective is to build a classification model that predicts the species of an
 
 ---
 
-This notebook includes an interactive section where users can:
-- Input flower measurements: sepal length, sepal width, petal length, and petal width
-- Get a real-time prediction of the **Iris species** (`Setosa`, `Versicolor`, or `Virginica`) based on the provided measurements
-  
----
 
 ## 📈 Accuracy Achieved
 
