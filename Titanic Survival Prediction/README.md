@@ -48,14 +48,6 @@ The objective is to build a classification model using the Titanic dataset to pr
 
 ---
 
-## 🎮 Interactive Section
-
-This notebook includes an interactive section where users can:
-- Enter passenger details (age, class, gender, etc.)
-- Click a button to get a real-time prediction (`Survived` or `Did not survive`)
-
----
-
 ## 📈 Accuracy Achieved
 
 - **Model**: Logistic Regression
