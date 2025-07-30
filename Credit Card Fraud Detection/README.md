@@ -45,14 +45,6 @@ The objective is to build a machine learning model that detects fraudulent credi
 
 ---
 
-## 🎮 Interactive Section
-
-This notebook includes an interactive section where users can:
-- Enter transaction feature values (V1 to V28, Amount, Time)
-- Click a button to get a real-time prediction (`Fraud` or `Not Fraud`)
-
----
-
 ## 📈 Model Performance
 
 - **Models Used**: Logistic Regression, Random Forest, XGBoost
