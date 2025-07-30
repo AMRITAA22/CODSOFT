@@ -63,9 +63,6 @@ An interactive Streamlit application allows users to:
 
 ## 📈 Model Performance
 - **Best Model:** Random Forest Regressor (example)
-- **R² Score:** Achieved reasonable accuracy in predicting ratings
-
-> *Note: The actual performance may vary based on data quality and preprocessing steps.*
 
 ---
 
