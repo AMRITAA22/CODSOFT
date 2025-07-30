@@ -54,17 +54,11 @@ We have used the **Advertising Dataset** from Kaggle:
 
 ---
 
-## 📊 Results
+## 📌 How to Run
 
-The Linear Regression model was able to predict sales with a decent accuracy based on advertising budgets. The model's **R-squared score** and **Mean Squared Error (MSE)** were evaluated to check performance.
-
----
-
-## 🎯 Conclusion
-
-- TV and Radio advertising have significant impact on sales.
-- Newspaper advertising has a lesser influence compared to TV and Radio.
-- This model can assist businesses in making data-driven marketing decisions.
+1. Open the `.ipynb` notebook in Google Colab
+2. Run all cells sequentially
+3. Use the interactive section at the bottom to test custom inputs
 
 ---
 
