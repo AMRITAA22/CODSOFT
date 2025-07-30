@@ -1,5 +1,7 @@
-# 📈 Sales Prediction using Python (CodSoft Internship Task 4)
+# 📈 Sales Prediction
+This project predicts future sales based on historical data using supervised machine learning techniques. It addresses a real-world regression problem, where the goal is to forecast sales revenue by identifying patterns and relationships in past sales trends. Such predictive modeling is widely used in retail, finance, and supply chain domains to optimize inventory, marketing, and business strategies.
 
+---
 ## 📝 Problem Statement
 
 Sales prediction involves forecasting the amount of product sales based on factors like advertising expenditure on different platforms (TV, Radio, Newspaper). This helps businesses optimize marketing budgets and maximize sales.
