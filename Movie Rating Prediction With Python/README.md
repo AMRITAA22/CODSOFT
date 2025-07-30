@@ -1,6 +1,8 @@
 # 🎬 Movie Rating Prediction System
 This project predicts movie ratings based on user behavior and movie features using supervised machine learning techniques. It tackles a regression-based recommendation problem, aiming to estimate how a user might rate a particular movie. This kind of system is widely used by streaming platforms and review sites to personalize content and enhance user engagement.
+
 ---
+
 ## 📌 Problem Statement
 The goal of this project is to develop a machine learning model that predicts the rating of a movie based on its features such as **Genre, Director, Actors, Duration, Budget, and Votes**.
 
@@ -68,12 +70,10 @@ An interactive Streamlit application allows users to:
 ---
 
 ## 🚀 How to Run
+1. Open the `.ipynb` notebook in Google Colab
+2. Run all cells sequentially
+3. Use the interactive section at the bottom to test custom inputs
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/movie-rating-prediction.git
-cd movie-rating-prediction
-```
 ---
 
 ## 🙋‍♀️ Author
